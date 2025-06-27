@@ -1,24 +1,31 @@
+# 不思議な建築魔法の世界
 
-> このページを開く [https://kamapro4kids.github.io/step1/](https://kamapro4kids.github.io/step1/)
+## まずはブロックを置こう！
 
-## 拡張機能として使用
+まずはツールボックスから<br>
+``||blocks:ブロックを置く||``を選択して、<br>
+すでに用意されている<br>
+``||player:チャットコマンドを入力した時||``のブロックに**4つ**挟もう！<br>
+<br>
+この数字**(~0 ~0 ~0)**は草があなたの今いる場所に配置されることを意味します。<br>
 
-このリポジトリは、MakeCode で **拡張機能** として追加できます。
+## ポジションを決めよう！
 
-* [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
-* **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/kamapro4kids/step1** を検索してインポートします。
+ツールボックスから<br>
+``||positions:右0 上0 前0||``
+<br>
+を選択して、さっき置いた**4つ**の``||blocks:ブロックを置く||``に入れよう！
 
-## このプロジェクトを編集します
+## 座標の数字を前後左右にしよう！
 
-MakeCode でこのリポジトリを編集します。
-
-* [https://minecraft.makecode.com/](https://minecraft.makecode.com/) を開く
-* **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/kamapro4kids/step1** を貼り付けてインポートをクリックしてください
-
-#### メタデータ (検索、レンダリングに使用)
-
-* for PXT/minecraft
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+**4つ**の``||blocks:ブロックを置く||``をそれぞれ<br>
+<br>
+**(右1 上0 前0)**<br>
+**(右-1 上0 前0)**<br>
+**(右0 上0 前1)**<br>
+**(右0 上0 前-1)**<br>
+<br>
+に変更しよう！<br><br>
+変更できたら<br>
+``|run|``を押して<br>
+**tキー**を押して**run**と入れてプログラムを動かしてみよう！
