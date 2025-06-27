@@ -27,5 +27,5 @@
 <br>
 に変更しよう！<br><br>
 変更できたら<br>
-![Run](/static/run.png)を押して<br>
+![Run](/docs/static/run.png)<br>を押して<br>
 **tキー**を押して**run**と入れてプログラムを動かしてみよう！
