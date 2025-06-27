@@ -26,7 +26,7 @@
 **(右0 上0 前-1)**<br>
 <br>
 に変更しよう！<br><br>
-変更できたら<br>
-![Run](/static/run.png)<br>を押して<br>
+変更できたら<br><br>
+![Run](https://github.com/kamapro4kids/step1/blob/master/docs/static/run.png?raw=true)<br>を押して<br>
 **tキー**を押して**run**と入れてプログラムを動かしてみよう！
 
