@@ -16,7 +16,7 @@
 <br>
 を選択して、さっき置いた**4つ**の``||blocks:ブロックを置く||``に入れよう！
 
-## 座標の数字を前後左右にしよう！ @showhint
+## 座標の数字を前後左右にしよう！ @showdialog
 
 **4つ**の``||blocks:ブロックを置く||``をそれぞれ<br>
 <br>
@@ -27,6 +27,6 @@
 <br>
 に変更しよう！<br><br>
 変更できたら<br><br>
-![run](https://raw.githubusercontent.com/kamapro4kids/step1/refs/heads/master/docs/static/run.png)<br>を押して<br>
+![run]( https://raw.githubusercontent.com/kamapro4kids/step1/refs/heads/master/docs/static/run.png )<br>を押して<br>
 **tキー**を押して**run**と入れてプログラムを動かしてみよう！
 
