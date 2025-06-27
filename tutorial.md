@@ -29,3 +29,7 @@
 変更できたら<br>
 ``|run|``を押して<br>
 **tキー**を押して**run**と入れてプログラムを動かしてみよう！
+...
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+

@@ -21,4 +21,4 @@ MakeCode でこのリポジトリを編集します。
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/minecraft
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.kamapro4kids }}/{{ site.github.step1 }}");</script>
